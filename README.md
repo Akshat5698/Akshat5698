@@ -6,9 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+Machine+Learning;Building+Smart+Solutions;Computer+Vision+Enthusiast;Azure+AI+Services+Developer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-dwivedi-918000325)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akshat123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatdwivedi49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-dwivedi-918000325)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akshat123)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatdwivedi49@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat5698)
 
 </div>
 
@@ -112,51 +113,74 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Akshat5698&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akshat5698&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## � Coding Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akshat5698&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="WakaTime Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat5698&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Skills & Focus Areas
 
-```mermaid
-mindmap
-  root((Akshat))
-    AI & ML
-      Deep Learning
-      Computer Vision
-      Azure AI Services
-    Development
-      Python
-      C++
-      React
-    Learning
-      DSA
-      System Design
-      Cloud Computing
-    Projects
-      Smart Bus Tracking
-      AttendWise
-      WorkVed
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+- Deep Learning & Neural Networks
+- Computer Vision
+- Azure AI Services
+- Model Training & Optimization
+
+</td>
+<td width="50%">
+
+### 💻 Development
+- Python, C, C++
+- React & Node.js
+- Full Stack Development
+- System Design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 Currently Learning
+- Advanced DSA
+- Cloud Computing (Azure)
+- System Architecture
+- MLOps & Deployment
+
+</td>
+<td width="50%">
+
+### 🚀 Active Projects
+- Smart Bus Tracking
+- AttendWise System
+- WorkVed Platform
+- AI Vision Tools
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -168,27 +192,21 @@ mindmap
 - 💬 Ask me about **Python, AI, Machine Learning, Computer Vision**
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/Akshat5698/Akshat5698/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
-## � Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
 
 I'm always excited to connect with fellow developers, AI enthusiasts, and innovators!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-dwivedi-918000325)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akshat123)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatdwivedi49@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="mailto:akshatdwivedi49@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Akshat5698" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ### 💭 Quote of the Day
 
