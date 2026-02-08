@@ -117,11 +117,14 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Achievements
+## � Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akshat5698&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/badge/LeetCode-Top_1%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/Hackathons-Winner_🏆-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Certification-Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 </div>
 
@@ -137,11 +140,23 @@ me.say_hi()
 
 ---
 
-## 🎯 Skills Radar
+## 🎯 Technical Prowess
 
 <div align="center">
 
-<img src="./skills_radar_chart.png" alt="Skills Radar Chart" width="600" />
+| **🤖 AI & Machine Learning** | **Proficiency** |
+|:-----------------------------|:---------------:|
+| Deep Learning & Neural Networks | `██████████` 100% |
+| Computer Vision & Processing | `█████████░` 90% |
+| Azure AI Services | `████████░░` 80% |
+| Model Training & Deployment | `███████░░░` 70% |
+
+| **💻 Development & Tools** | **Proficiency** |
+|:---------------------------|:---------------:|
+| Python & C++ | `██████████` 100% |
+| Full Stack (React/Node) | `█████████░` 90% |
+| Data Structures & Algo | `████████░░` 85% |
+| System Design & Cloud | `███████░░░` 75% |
 
 </div>
 
@@ -173,7 +188,7 @@ I'm always excited to connect with fellow developers, AI enthusiasts, and innova
 
 ### 💭 Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+> *"The only way to do great work is to love what you do."* — **Steve Jobs**
 
 </div>
 
