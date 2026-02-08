@@ -9,16 +9,16 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" width="40" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
 </a>
 <a href="https://www.leetcode.com/akshat123" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40" alt="LeetCode" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="40" width="40" alt="LeetCode" />
 </a>
 <a href="mailto:akshatdwivedi49@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40" alt="Email" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
 </a>
 <a href="https://github.com/Akshat5698" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717?viewbox=auto" height="40" width="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </a>
 
 </div>
@@ -26,6 +26,8 @@
 ---
 
 ## 💫 About Me
+
+<div align="left">
 
 ```python
 class AkshatDwivedi:
@@ -48,6 +50,8 @@ class AkshatDwivedi:
 me = AkshatDwivedi()
 me.say_hi()
 ```
+
+</div>
 
 ---
 
@@ -133,52 +137,11 @@ me.say_hi()
 
 ---
 
-## 🎯 Skills & Focus Areas
+## 🎯 Skills Radar
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-- Deep Learning & Neural Networks
-- Computer Vision
-- Azure AI Services
-- Model Training & Optimization
-
-</td>
-<td width="50%">
-
-### 💻 Development
-- Python, C, C++
-- React & Node.js
-- Full Stack Development
-- System Design
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 Currently Learning
-- Advanced DSA
-- Cloud Computing (Azure)
-- System Architecture
-- MLOps & Deployment
-
-</td>
-<td width="50%">
-
-### 🚀 Active Projects
-- Smart Bus Tracking
-- AttendWise System
-- WorkVed Platform
-- AI Vision Tools
-
-</td>
-</tr>
-</table>
+<img src="./skills_radar_chart.png" alt="Skills Radar Chart" width="600" />
 
 </div>
 
@@ -202,10 +165,10 @@ me.say_hi()
 I'm always excited to connect with fellow developers, AI enthusiasts, and innovators!
 
 <p align="center">
-<a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" width="40" alt="LinkedIn" /></a>
-<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40" alt="LeetCode" /></a>
-<a href="mailto:akshatdwivedi49@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40" alt="Email" /></a>
-<a href="https://github.com/Akshat5698" target="_blank"><img src="https://cdn.simpleicons.org/github/181717?viewbox=auto" height="40" width="40" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="40" width="40" alt="LeetCode" /></a>
+<a href="mailto:akshatdwivedi49@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
+<a href="https://github.com/Akshat5698" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 </p>
 
 ### 💭 Quote of the Day
