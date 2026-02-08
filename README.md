@@ -98,20 +98,22 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat5698&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat5698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="170" />
+<a href="https://github.com/Akshat5698">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat5698&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Akshat5698">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat5698&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</a>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat5698&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat5698&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
+<a href="https://github.com/Akshat5698">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Akshat5698&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat5698&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
