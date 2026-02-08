@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
 </a>
 <a href="https://www.leetcode.com/akshat123" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="40" width="40" alt="LeetCode" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40" alt="LeetCode" />
 </a>
 <a href="mailto:akshatdwivedi49@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
@@ -117,14 +117,14 @@ me.say_hi()
 
 ---
 
-## � Achievements
+## 🏅 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-Top_1%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/Hackathons-Winner_🏆-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Certification-Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<a href="https://leetcode.com/akshat123" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-TOP_1%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=555555" /></a>
+<img src="https://img.shields.io/badge/HACKATHONS-WINNER_🏆-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=555555" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" />
+<img src="https://img.shields.io/badge/CERTIFICATION-AZURE_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=555555" />
 
 </div>
 
@@ -181,7 +181,7 @@ I'm always excited to connect with fellow developers, AI enthusiasts, and innova
 
 <p align="center">
 <a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="40" width="40" alt="LeetCode" /></a>
+<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40" alt="LeetCode" /></a>
 <a href="mailto:akshatdwivedi49@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
 <a href="https://github.com/Akshat5698" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 </p>
