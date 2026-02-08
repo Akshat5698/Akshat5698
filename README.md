@@ -6,10 +6,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+Machine+Learning;Building+Smart+Solutions;Computer+Vision+Enthusiast;Azure+AI+Services+Developer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-dwivedi-918000325)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akshat123)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatdwivedi49@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat5698)
+<div align="center">
+
+<a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" width="40" alt="LinkedIn" />
+</a>
+<a href="https://www.leetcode.com/akshat123" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40" alt="LeetCode" />
+</a>
+<a href="mailto:akshatdwivedi49@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40" alt="Email" />
+</a>
+<a href="https://github.com/Akshat5698" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/181717?viewbox=auto" height="40" width="40" alt="GitHub" />
+</a>
 
 </div>
 
@@ -44,35 +54,25 @@ me.say_hi()
 ## 🛠️ Tech Stack
 
 ### 🧠 AI & Machine Learning
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-  <a href="https://azure.microsoft.com/en-us/products/ai-services" target="_blank"><img src="https://img.shields.io/badge/AZURE_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,azure,pandas" />
+  </a>
+</div>
 
 ### 💻 Programming & Development
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,react,nodejs,html,css,js" />
+  </a>
+</div>
 
 ### 🔧 Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+  </a>
+</div>
 
 ---
 
@@ -202,10 +202,10 @@ me.say_hi()
 I'm always excited to connect with fellow developers, AI enthusiasts, and innovators!
 
 <p align="center">
-<a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="mailto:akshatdwivedi49@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Akshat5698" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/akshat-dwivedi-918000325" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" width="40" alt="LinkedIn" /></a>
+<a href="https://www.leetcode.com/akshat123" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40" alt="LeetCode" /></a>
+<a href="mailto:akshatdwivedi49@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40" alt="Email" /></a>
+<a href="https://github.com/Akshat5698" target="_blank"><img src="https://cdn.simpleicons.org/github/181717?viewbox=auto" height="40" width="40" alt="GitHub" /></a>
 </p>
 
 ### 💭 Quote of the Day
